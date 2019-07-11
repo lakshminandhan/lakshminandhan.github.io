@@ -57,7 +57,7 @@ a:focus, a:hover {
 /*-- //Reset-Code --*/
 /*-- banner --*/
 .w3-banner-top{
-    background: url(../images/background.jpg) no-repeat 0px 0px;
+    background: url(../images/background123.jpg) no-repeat 0px 0px;
     background-size: cover;
 	min-height:750px;
 	    position: relative;
@@ -1285,7 +1285,7 @@ h4.modal-title {
 }
 @media(max-width:1280px){
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -194px 0px;
+    background: url(../images/background123.jpg) no-repeat -194px 0px;
     background-size: cover;
 	}
 }
